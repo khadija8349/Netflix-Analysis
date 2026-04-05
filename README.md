@@ -1,58 +1,66 @@
-# Netflix-Analysis
-# 📊 Netflix Data Analysis (Excel Project)
+📊 Netflix Data Analysis (Excel Project)
+📌 Problem Statement
+Netflix aims to understand which types of content (genres, ratings, release years, and user viewing patterns) drive higher engagement. The goal of this analysis is to explore the existing content library, identify meaningful trends, and generate insights that can help Netflix improve personalization, strengthen its recommendation engine, and enhance overall user retention.
 
-This project contains an Excel-based analysis of Netflix raw data.  
-The goal of the project is to clean, explore, and understand key patterns in the dataset using Excel formulas, filters, pivot tables, and visualizations.
+🎯 Objectives
+Clean and structure the raw dataset for analysis
 
----
+Identify missing values and inconsistencies
 
-## 📁 Project Files
-- **Netflix Exercise - Raw Data.xlsx**  
-  Contains the original dataset and analysis work.
+Explore trends in:
 
----
+Movies vs. TV Shows
 
-## 🎯 Objectives of the Analysis
-- Clean and organize the raw dataset  
-- Identify missing values and inconsistencies  
-- Explore trends in:
-  - Movie vs TV Show distribution  
-  - Release years  
-  - Ratings  
-  - Genres  
-  - Country distribution  
-- Create pivot tables and charts for insights  
+Release year patterns
 
----
+Genre distribution
 
-## 🛠️ Tools & Techniques Used
-- Excel formulas (IF, COUNTIF, VLOOKUP, etc.)
-- Sorting & filtering  
-- Pivot tables  
-- Pivot charts  
-- Data cleaning steps  
-- Conditional formatting  
+Ratings
 
----
+Country‑wise content availability
 
-## 📈 Key Insights (Example)
-- Most content on Netflix is **Movies**  
-- The highest number of releases occurred after **2015**  
-- Popular genres include **Drama**, **Comedy**, and **Documentaries**  
-- Majority of content originates from the **United States**  
+Build pivot tables and charts to summarize key insights
 
-*(You can update these based on your actual findings.)*
+📁 Project Files
+Netflix Exercise – Raw Data.xlsx  
+Original dataset used for cleaning and exploration.
 
----
+Netflix Exercise – Solution File.xlsx  
+Final cleaned dataset, pivot tables, charts, and insights.
 
-## 📦 How to Use This Project
-1. Download the Excel file  
-2. Open in Microsoft Excel  
-3. Explore the pivot tables, charts, and analysis sheets  
+🛠️ Tools & Techniques
+Excel formulas (IF, COUNTIF, VLOOKUP, etc.)
 
----
+Sorting and filtering
 
-## 👩‍💻 Author
-**Khadija**  
+Pivot tables
+
+Pivot charts
+
+Conditional formatting
+
+Data cleaning and transformation
+
+📈 Key Insights
+Netflix hosts significantly more Movies than TV Shows
+
+Content production increased sharply after 2015
+
+Drama, Comedy, and Documentary titles dominate the platform
+
+The United States contributes the highest volume of content
+
+(You can update these based on your actual findings.)
+
+📦 How to Use This Project
+Download the Excel files
+
+Open the solution file in Microsoft Excel
+
+Explore the pivot tables, charts, and insights
+
+Review the cleaned dataset and transformation steps
+
+👩‍💻 Author
+Khadija  
 Health AI Researcher
-
