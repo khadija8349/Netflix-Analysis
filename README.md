@@ -54,4 +54,5 @@ The goal of the project is to clean, explore, and understand key patterns in the
 
 ## 👩‍💻 Author
 **Khadija**  
-Excel & Data Analysis Enthusiast  
+Health AI Researcher
+
