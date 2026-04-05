@@ -50,7 +50,6 @@ Drama, Comedy, and Documentary titles dominate the platform
 
 The United States contributes the highest volume of content
 
-(You can update these based on your actual findings.)
 
 📦 How to Use This Project
 Download the Excel files
